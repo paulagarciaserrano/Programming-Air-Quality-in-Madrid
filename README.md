@@ -29,7 +29,9 @@ Awareness of the current air pollution situation in Madrid need to arise. The ci
 
 5. Open Pycharm click open file and open our repository.
 
-6.
+6. Download the required libraries: tkinter, matplotlib, pandas, datetime, pillow:
+
+   For this click on pycharm(top right) -> preferences -> Project -> Project Interpreter -> + (bottom left) and search for the      libraries mentioned above, select them and click install package in the bottom left.
 
 7. Now click run and start using our program!
 
@@ -47,7 +49,9 @@ Awareness of the current air pollution situation in Madrid need to arise. The ci
 
 5. Open Pycharm click open file and open our repository.
 
-6. 
+6. Download the required libraries: tkinter, matplotlib, pandas, datetime, pillow:
+
+   File -> Settings -> Project -> Project interpreter -> + (top right) and search for the libraries mentioned above, select         them and click install package.
 
 7. Now click run and start using our program!
 
