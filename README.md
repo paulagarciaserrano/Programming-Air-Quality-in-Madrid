@@ -19,7 +19,7 @@ Awareness of the current air pollution situation in Madrid need to arise. The ci
 
 1. Clone or download our repository. (If you scroll upwards you will find a green button that says: "Clone or Download", click and select "Download ZIP").
 
-2. Download python version 3.8.0 and then open the downloaded file in order to install. 
+2. Download python version 3.7.0 and then open the downloaded file in order to install. 
 (https://www.python.org/downloads/mac-osx/).
 
 3. Download Pycharm Edu and then open the downloaded file in order to install.
@@ -39,7 +39,7 @@ Awareness of the current air pollution situation in Madrid need to arise. The ci
 
 1. Clone or download our repository. (If you scroll upwards you will find a green button that says: "Clone or Download", click and select "Download ZIP").
 
-2. Download python version 3.8.0 and then open the downloaded file in order to install. 
+2. Download python version 3.7.0 and then open the downloaded file in order to install. 
 (https://www.python.org/downloads/windows/).
 
 3. Download Pycharm Edu and then open the downloaded file in order to install.
