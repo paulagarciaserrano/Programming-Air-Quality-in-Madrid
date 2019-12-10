@@ -61,7 +61,7 @@ Awareness of the current air pollution situation in Madrid need to arise. The ci
 
 ## Usage
 
-Please, take into account this is an MVP, meaning it only works with csv files that have 365 or 366 observations with the levels of one gas from 2017 from a station in Madrid. The csv must also be formatted the following way: it needs to have two columns, one with the date and another one with the gas levels. The csv file must also be downloaded into your computer.
+Please, take into account this is an MVP, meaning it only works with csv files that have 365 or 366 observations with the levels of one gas from 2017 from one station in Madrid. The csv must also be formatted the following way: it needs to have two columns, one with the date and another one with the gas level per day. The csv file must also be downloaded into your computer.
 
 
 <a name="contributing"/>
