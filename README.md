@@ -59,9 +59,7 @@ Awareness of the current air pollution situation in Madrid need to arise. The ci
 
 ## Usage
 
-Please, take into account this is an MVP, when selecting the building you are in please indicate PV as it is the only one working, if you select another one this message will come up: "Sorry building not available at the moment".
-
-If you want to know how to go from one building to another, the image with the directions will be saved to your computer in a new file named MAPS inside the folder of our repository.
+Please, take into account this is an MVP, meaning it only works with csv files that have 365 or 366 observations with the levels of one gas from 2017 from a station in Madrid. The csv must also be formatted the following way: it needs to have two columns, one with the date and another one with the gas levels.
 
 
 <a name="contributing"/>
