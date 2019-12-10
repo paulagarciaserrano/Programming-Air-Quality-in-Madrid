@@ -31,9 +31,9 @@ Awareness of the current air pollution situation in Madrid need to arise. The ci
 
 6. Download the required libraries: matplotlib, pandas, DateTime, Pillow:
 
-   For this click on pycharm(top right) -> preferences -> Project -> Project Interpreter -> + (bottom left) and search for the      libraries mentioned above, select them and click install package in the bottom left.
+   For this click on pycharm(top right) -> preferences -> Project: Air_Quality_in_Madrid -> Project Interpreter -> + (bottom                          left) and search for the libraries mentioned above, select them and click install package in the bottom left.
 
-7. Go to Applications in your Finder and click on Python. Then open Install Certificates.command and wait until it stops          running
+7. Go to Applications in your Finder and click on the Python folder. Then open Install Certificates.command and wait until it finishes running.
 
 7. Now go back to PyCharm and click run to start using our program!
 
@@ -53,7 +53,7 @@ Awareness of the current air pollution situation in Madrid need to arise. The ci
 
 6. Download the required libraries: matplotlib, pandas, DateTime, Pillow:
 
-   File -> Settings -> Project -> Project interpreter -> + (top right) and search for the libraries mentioned above, select         them and click install package.
+   File -> Settings -> Project: Air_Quality_in_Madrid -> Project interpreter -> + (top right) and search for the libraries mentioned above, select them and click install package.
 
 7. Now click run and start using our program!
 
