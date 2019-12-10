@@ -1,4 +1,4 @@
-# Air Pollution in Madrid
+# Air Quality in Madrid
 Awareness of the current air pollution situation in Madrid need to arise. The city has surpassed the limit of emissions of polluting gases imposed by Europe for the past six years. To raise this awareness, we created a program where the user inputs a CSV file with the gas concentration levels over a year in two separate columns and a graph with the levels of NO2 is presented. A fast way of giving information about the situation in Madrid, but it has limitations. We only work with the gas NO2 and the year 2017. This will be improved in the upcoming future. The results of the program are satisfactory and easy to interpret. 
 ## Table of Contents 
 [Installation](#installation)  
@@ -98,7 +98,7 @@ Juan Gil de Gomez will be in charge of the information flow, updating our graphs
 ## License
 MIT License
 
-Copyright (c) [2019] [Air Pollution in Madrid]
+Copyright (c) [2019] [Air Quality in Madrid]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
